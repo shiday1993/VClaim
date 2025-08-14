@@ -11,7 +11,7 @@ Wrapper sederhana untuk memanggil layanan **BPJS VClaim** via backend menggunaka
 ---
 
 ## 📦 Instalasi
-Cukup simpan file `vclaim_baru.js` atau `vclaim_baru.min.js` ke project kamu, lalu panggil di HTML:
+Cukup simpan file `vclaim.js` atau `vclaim.min.js` ke project kamu, lalu panggil di HTML:
 
 ```html
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
